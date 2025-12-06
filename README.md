@@ -5,7 +5,7 @@ I am a first-semester **AI & ML Engineering Student** passionate about the inter
 - 🔭 I’m currently working on: **Python proficiency & Engineering Mathematics**
 - 🌱 I’m currently learning: **Multivariate Calculus, Matrices, and Internet Programming**
 - 🎯 My Goals: Building AI for **Fighter Plane Automation**, **Medical Diagnostics**, and **Stock Market Prediction**.
-- ⚡ Fun fact: I am researching the physics behind coaxial cables!
+
 
 ---
 
