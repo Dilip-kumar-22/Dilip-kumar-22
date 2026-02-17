@@ -1,8 +1,8 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=SAMAEL%20FOUNDRY&fontSize=70&animation=fadeIn&fontAlignY=38&theme=tokyonight" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=3000&pause=1000&color=A9B1D6&center=true&vCenter=true&width=600&lines=SAMAEL+FOUNDRY;THE+ARCHITECT;SYSTEMS+ONLINE" alt="Typing SVG" />
+</div>
 
-# ⚡ THE ARCHITECT | DILIP KUMAR (SAMAEL)
+# ⚡ THE ARCHITECT | DILIP KUMAR (SAMAEL) 
 ### **Sovereign Intelligence & Autonomous Systems Orchestrator**
 
 > **STATUS:** PHASE II: Infrastructure Expansion 
@@ -30,6 +30,7 @@ Lead Architect specializing in the convergence of **Quantitative Finance**, **Au
 <details open>
 <summary><b>DEPLOYED: PROJECT GHOST TRADER [MARK XXII]</b></summary>
 Autonomous intraday trading system. 
+<br>
 - <b>Role:</b> Market Analysis & Execution.
 - <b>Stack:</b> Python, AWS, Real-time WebSockets.
 - <b>Status:</b> 🟢 Operational | Deployment via Project GHOST TRADER.
@@ -38,6 +39,7 @@ Autonomous intraday trading system.
 <details>
 <summary><b>IN-DEVELOPMENT: PROJECT VALKYRIE [SENTINEL]</b></summary>
 Advanced ML-driven predictive modeling for volatile assets.
+<br>
 - <b>Role:</b> Strategic Forecasting.
 - <b>Stack:</b> PyTorch, Custom Scrapers, WSL2.
 - <b>Status:</b> 🟡 Optimization Phase.
@@ -57,8 +59,8 @@ Advanced ML-driven predictive modeling for volatile assets.
 
 ## 📊 SYSTEM ANALYTICS
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dilip-kumar-22&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dilip-kumar-22&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dilip-kumar-22&theme=tokyonight" width="45%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Dilip-kumar-22&theme=tokyonight" width="45%" />
 </p>
 
 ---
@@ -67,5 +69,4 @@ Advanced ML-driven predictive modeling for volatile assets.
 - **Primary:** [sroy.dilip@gmail.com](mailto:sroy.dilip@gmail.com)
 - **Identity:** Samael (The Architect)
 - **Affiliation:** Sovereign AI Corporation
-
-- > *"We are not just building software. We are building the tools of sovereignty."*
+- **Key:** *We are not just building software. We are building the tools of sovereignty.*
