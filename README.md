@@ -21,7 +21,7 @@ Lead Architect specializing in the convergence of **Quantitative Finance**, **Au
 
 - 🧬 **Philosophy:** Absolute efficiency and precision-grade engineering.
 - 🏢 **Operations:** Director of **SAMAEL FOUNDRY** & **PROJECT VALKYRIE**.
-- 🎓 **Status:** AI & ML Engineering @ LPU | TCPGA: 9.0.
+- 🎓 **Status:** AI & ML Engineering @ LPU
 
 ---
 
@@ -44,6 +44,21 @@ Advanced ML-driven predictive modeling for volatile assets.
 - <b>Stack:</b> PyTorch, Custom Scrapers, WSL2.
 - <b>Status:</b> 🟡 Optimization Phase.
 </details>
+
+---
+---
+
+## 📂 THE ARCHIVE: 14-DAY SPRINT (RAPID PROTOTYPING)
+
+A demonstration of architectural agility. 14 specialized modules deployed in 14 days.
+
+| MISSION | DOMAIN | CORE TECHNOLOGY | STATUS |
+| :--- | :--- | :--- | :--- |
+| **[Biometric Sentry](https://github.com/Dilip-kumar-22/biometric-ai-sentry)** | AI/Security | Face Recognition, ResNet, OpenCV | 🟢 DEPLOYED |
+| **[Nexus Terminal](https://github.com/Dilip-kumar-22/nexus-financial-terminal)** | FinTech/UI | Streamlit, Plotly, YFinance | 🟢 DEPLOYED |
+| **[Blockchain Core](https://github.com/Dilip-kumar-22/blockchain-core-engine)** | Distributed Systems | SHA-256, Proof-of-Work, JSON | 🟢 DEPLOYED |
+| **[Argus Vision](https://github.com/Dilip-kumar-22/surveillance-vision-system)** | Computer Vision | Delta-Frame Analysis, OpenCV | 🟢 DEPLOYED |
+| **[Market Pulse](https://github.com/Dilip-kumar-22/financial-engineering-tools)** | NLP/Finance | NLTK VADER, Web Scraping | 🟢 DEPLOYED |
 
 ---
 
