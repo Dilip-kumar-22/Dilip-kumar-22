@@ -12,7 +12,7 @@
 ---
 
 ## 🏆 OPERATIONAL EXCELLENCE
-[![github contribution grid snake](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilip-kumar-22&theme=tokyonight)](https://github.com/Dilip-kumar-22)
+[![GitHub Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dilip-kumar-22&theme=tokyonight)](https://github.com/Dilip-kumar-22)
 
 ---
 
@@ -31,8 +31,8 @@ Lead Architect specializing in the convergence of **Quantitative Finance**, **Au
 <summary><b>DEPLOYED: PROJECT GHOST TRADER [MARK XXII]</b></summary>
 Autonomous intraday trading system. 
 <br>
-- <b>Role:</b> Market Analysis & Execution.
-- <b>Stack:</b> Python, AWS, Real-time WebSockets.
+- <b>Role:</b> Market Analysis & Execution.<br>
+- <b>Stack:</b> Python, AWS, Real-time WebSockets.<br>
 - <b>Status:</b> 🟢 Operational | Deployment via Project GHOST TRADER.
 </details>
 
@@ -40,12 +40,11 @@ Autonomous intraday trading system.
 <summary><b>IN-DEVELOPMENT: PROJECT VALKYRIE [SENTINEL]</b></summary>
 Advanced ML-driven predictive modeling for volatile assets.
 <br>
-- <b>Role:</b> Strategic Forecasting.
-- <b>Stack:</b> PyTorch, Custom Scrapers, WSL2.
+- <b>Role:</b> Strategic Forecasting.<br>
+- <b>Stack:</b> PyTorch, Custom Scrapers, WSL2.<br>
 - <b>Status:</b> 🟡 Optimization Phase.
 </details>
 
----
 ---
 
 ## 📂 THE ARCHIVE: 14-DAY SPRINT (RAPID PROTOTYPING)
@@ -65,10 +64,18 @@ A demonstration of architectural agility. 14 specialized modules deployed in 14 
 ## 💻 THE ARSENAL (TACTICAL STACK)
 
 ### **Intelligence & Logic**
-`Python` `TensorFlow` `PyTorch` `LLM Fine-Tuning` `Web Scraping`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LLM Fine-Tuning](https://img.shields.io/badge/LLM_Fine--Tuning-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-4CAF50?style=for-the-badge&logo=selenium&logoColor=white)
 
 ### **Infrastructure & Command**
-`AWS` `Linux/WSL2` `Docker` `GitHub` `High-Performance Compute`
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Linux/WSL2](https://img.shields.io/badge/Linux_WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![HPC](https://img.shields.io/badge/High--Performance_Compute-00599C?style=for-the-badge&logo=intel&logoColor=white)
 
 ---
 
@@ -81,13 +88,14 @@ A demonstration of architectural agility. 14 specialized modules deployed in 14 
 ---
 
 ## 📡 SECURE COMMUNICATION
-- **Primary:** [sroy.dilip@gmail.com](mailto:sroy.dilip@gmail.com)
+- **Primary Comm-Link:** [sroy.dilip@gmail.com](mailto:sroy.dilip@gmail.com)
+- **Professional Network:** [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) | [X/Twitter](https://twitter.com/YOUR_TWITTER)
 - **Identity:** Samael (The Architect)
 - **Affiliation:** Sovereign AI Corporation
 - **Key:** *We are not just building software. We are building the tools of sovereignty.*
 
 <!-- DAILY-BOT-START -->
-### 📅 Daily AI Report — 2026-03-02
+### 📡 SYSTEM TELEMETRY: AUTOMATED DEPLOYMENT LOG — 2026-03-02
 
 #### 🤖 AI-Generated Project
 
@@ -95,5 +103,4 @@ A demonstration of architectural agility. 14 specialized modules deployed in 14 
 > An intelligent pre-commit hook that uses local AI to review your code changes before you commit.
 
 ---
-
 <!-- DAILY-BOT-END -->
