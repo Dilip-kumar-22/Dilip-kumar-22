@@ -47,17 +47,16 @@ Advanced ML-driven predictive modeling for volatile assets.
 
 ---
 
-## 📂 THE ARCHIVE: 14-DAY SPRINT (RAPID PROTOTYPING)
+## 📂 THE ARCHIVE: DEPLOYED SYSTEMS
 
-A demonstration of architectural agility. 14 specialized modules deployed in 14 days.
+A demonstration of architectural agility. Core systems currently in production.
 
 | MISSION | DOMAIN | CORE TECHNOLOGY | STATUS |
 | :--- | :--- | :--- | :--- |
-| **[Biometric Sentry](https://github.com/Dilip-kumar-22/biometric-ai-sentry)** | AI/Security | Face Recognition, ResNet, OpenCV | 🟢 DEPLOYED |
-| **[Nexus Terminal](https://github.com/Dilip-kumar-22/nexus-financial-terminal)** | FinTech/UI | Streamlit, Plotly, YFinance | 🟢 DEPLOYED |
-| **[Blockchain Core](https://github.com/Dilip-kumar-22/blockchain-core-engine)** | Distributed Systems | SHA-256, Proof-of-Work, JSON | 🟢 DEPLOYED |
-| **[Argus Vision](https://github.com/Dilip-kumar-22/surveillance-vision-system)** | Computer Vision | Delta-Frame Analysis, OpenCV | 🟢 DEPLOYED |
-| **[Market Pulse](https://github.com/Dilip-kumar-22/financial-engineering-tools)** | NLP/Finance | NLTK VADER, Web Scraping | 🟢 DEPLOYED |
+| **[Commit Sensei](https://github.com/Dilip-kumar-22/commit-sensei)** | AI/DevOps | Local LLM, Git Hooks | 🟢 DEPLOYED |
+| **[System Automation Suite](https://github.com/Dilip-kumar-22/system-automation-suite)** | Infrastructure | Python, Bash, Automation | 🟢 DEPLOYED |
+| **[Network Security Tools](https://github.com/Dilip-kumar-22/network-security-tools)** | CyberSecurity | Python, Sockets, Packet Analysis | 🟢 DEPLOYED |
+| **[Financial Eng. Tools](https://github.com/Dilip-kumar-22/financial-engineering-tools)** | FinTech/Quant | Pandas, NumPy, APIs | 🟢 DEPLOYED |
 
 ---
 
