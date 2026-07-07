@@ -22,14 +22,13 @@ I build immersive, fast web experiences — and the tools behind them.
 
 <br/>
 
-## 🎙️ Now building — **Bolo**
+## 🎙️ [Bolo](https://github.com/Dilip-kumar-22/bolo) — free, offline voice typing for Windows
 
-**Free, open-source voice typing for Windows — 100% offline.**
-
-Hold `Ctrl + Alt`, speak, release — clean text lands in whatever app you're typing in. Whisper runs **in-process** (Rust · Tauri 2 · whisper.cpp), so no audio ever leaves the laptop: no cloud, no subscription, no telemetry. First-class **Hinglish**, a personal dictionary, local text transforms, and a 3 MB installer.
+Hold `Ctrl + Alt`, speak, release — clean text lands in whatever app you're typing in. Whisper runs **in-process** (Rust · Tauri 2 · whisper.cpp), so no audio ever leaves the laptop: no cloud, no subscription, no telemetry. First-class **Hinglish**, a personal dictionary, local transforms, and an optional bring-your-own-key cloud mode (Claude / GPT / Gemini / Groq…). 3 MB installer.
 
 > Measured on real voice: **5% word-error rate** (clean English) at **~1.9 s** to text — on a laptop **CPU**.
-> Eight releases in. Repo goes public at launch — very soon. 🚀
+
+**[⬇️ Download for Windows](https://github.com/Dilip-kumar-22/bolo/releases/latest)** · **[source (MIT)](https://github.com/Dilip-kumar-22/bolo)** — open source, 10 releases in. 🚀
 
 ## Selected work
 
